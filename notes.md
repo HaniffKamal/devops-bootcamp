@@ -1,2 +1,3 @@
 # taip notes pembelajaran, Save (Ctrl+S)ls -
-gajah
+gajahf
+# tambah baris: - Read = git log + git diff
