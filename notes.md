@@ -1,1 +1,2 @@
-# taip notes pembelajaran, Save (Ctrl+S)
+# taip notes pembelajaran, Save (Ctrl+S)ls -
+gajah
