@@ -1,5 +1,5 @@
-# taip: # Bootcamp Git Project
-# taip: Sesi Git 1
+# Projek Bootcamp Git 2026
+Sesi Git 1
 ## Tujuan
 Belajar git workflow lokal.
 # ## Senarai Arahan
