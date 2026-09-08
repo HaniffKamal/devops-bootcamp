@@ -1,2 +1,45 @@
+# Environment & Secrets (Never commit credentials!)
 .env
-*debug.log
+.env.*
+*.env
+*.pem
+*.key
+*.id_rsa
+*credentials*
+
+# Logs
+*.log
+debug.log
+
+# Operating System & IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+
+# Compressed Archives & Installer Packages
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+awscliv2.zip
+aws/
+
+# DevOps & Infrastructure (Terraform, Vagrant, etc.)
+.terraform/
+*.tfstate
+*.tfstate.*
+.vagrant/
+
+# Python & Node.js Artifacts / Environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+node_modules/
+dist/
+build/
