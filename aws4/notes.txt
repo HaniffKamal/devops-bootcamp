@@ -1,0 +1,12 @@
+[
+    [
+        "nat-09a50972474121a3a",
+        "available"
+    ]
+]
+[
+    "47.130.82.152"
+]
+[
+    "535515637487.dkr.ecr.ap-southeast-1.amazonaws.com/devops-bootcamp/haniff"
+]
