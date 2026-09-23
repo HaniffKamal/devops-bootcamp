@@ -1,0 +1,4 @@
+elastic-ip: x.x.x.x
+web: web.domain-anda.com (A record, proxied)
+tunnel: cloudflare2.domain-anda.com
+ssl-mode: Flexible
