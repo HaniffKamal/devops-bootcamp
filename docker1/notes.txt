@@ -1,0 +1,11 @@
+Docker version 29.8.0, build 88096ef
+IMAGE                    ID             DISK USAGE   CONTENT SIZE   EXTRA
+alpine:latest            28bd5fe8b56d         13MB         3.93MB        
+chatbot-backend:latest   2c2566c188f2        800MB          173MB        
+hello-world:latest       5e2309035332       25.9kB         9.49kB        
+infratify/card:latest    2414f6668e83         81MB         23.1MB        
+nginx:alpine             df221db836e1       94.4MB         27.2MB        
+nginx:latest             abe47724e466        242MB         66.3MB        
+ollama/ollama:latest     0c0a83210471       9.21GB         3.71GB        
+ubuntu:latest            513c074113a8        161MB         45.3MB        
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
