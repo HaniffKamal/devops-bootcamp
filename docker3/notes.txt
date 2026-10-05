@@ -1,0 +1,11 @@
+535515637487.dkr.ecr.ap-southeast-1.amazonaws.com/devops-bootcamp/haniff:v1   ee04e2d515c9        105MB         31.6MB   U    
+NETWORK ID     NAME      DRIVER    SCOPE
+ecc8bbce1d2f   arena     bridge    local
+e51dfd27d822   bridge    bridge    local
+701540c07f5b   host      host      local
+e0e1f0b50654   none      null      local
+DRIVER    VOLUME NAME
+local     chatbot_chroma_data
+local     chatbot_chroma_models
+local     chatbot_ollama_data
+local     me
