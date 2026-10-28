@@ -12,7 +12,7 @@ terraform {
     key          = "terraform2/terraform.tfstate"
     region       = "ap-southeast-1"
     use_lockfile = true
-    }
+  }
 }
 
 provider "aws" {

@@ -1,7 +1,7 @@
 resource "aws_security_group" "my_sg" {
   name   = "tf-web-sg"
   vpc_id = aws_vpc.my_vpc.id
-  tags = { Name = "tf-web-sg" }
+  tags   = { Name = "tf-web-sg" }
 }
 
 resource "aws_vpc_security_group_ingress_rule" "my_inbound_rule" {
